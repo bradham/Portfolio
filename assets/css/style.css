@@ -58,8 +58,8 @@ h3 {
   width: 100%;
   margin: 0 0 30px;
   overflow: auto;
-  color: #ffffff;
-  background: #ffffff;
+  color: #4169e1;
+  background: #4169e1;
   border-bottom: 2px solid #cccccc;
 }
 
@@ -74,7 +74,7 @@ h3 {
   color: #ffffff;
   text-align: center;
   text-decoration: none;
-  background: #4aaaa5;
+  background: #4169e1;
 }
 
 nav {
@@ -106,7 +106,7 @@ footer {
   color: #cccccc;
   text-align: center;
   background: #666666;
-  border-top: 8px solid #4aaaa5;
+  border-top: 8px solid #4169e1;
   height: 50px;
 }
 
