@@ -228,7 +228,7 @@ body, html {
 .bgimg-1 {
   background-position: center;
   background-size: cover;
-  /* background-image: "/forest-fog-sunny-nature-615348.jpeg"; */
+  background-image: url("../images/forest-fog-sunny-nature.jpg");
   min-height: 100%;
 }
 
