@@ -35,7 +35,7 @@ h2,
 h3 {
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: 700;
-  color: #4aaaa5;
+  color: #4169e1;
 }
 
 h1 {
@@ -235,4 +235,6 @@ body, html {
 .w3-bar .w3-button {
   padding: 16px;
 }
+
+
 
