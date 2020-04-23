@@ -1,5 +1,7 @@
 # Portfolio
 Portfolio of projects that I have been working on.
 
-### [Crystals Collector](https://bradham.github.io/CrystalsCollector/)
+### [Home Page](https://bradham.github.io/Portfolio/#home)
+
+### [List of Projects](https://bradham.github.io/Portfolio/#work)
 
